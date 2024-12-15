@@ -149,7 +149,7 @@ button:hover {
   transition: transform 200ms ease-in;
 }
 
-.task-list__btn_delete:hover {
+.task-list__btn_delete:hover img{
   transform: rotateZ(0);
 }
 
